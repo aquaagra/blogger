@@ -35,7 +35,7 @@ var CONFIG={};
   };
 
 
-alert()
+localStorage.CART = localStorage.CART || "[]";
 
 
 
