@@ -35,7 +35,7 @@ var CONFIG={};
   };
 
 
-localStorage.CART = localStorage.CART === undefined ? [] : localStorage.CART;
+localStorage.CART = (localStorage.CART === undefined || localStorage.CART === '') ? [] : localStorage.CART;
 
 
 
