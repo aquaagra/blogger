@@ -2,7 +2,7 @@
 
 @font-face {
   font-family:'Roboto';
-  src:local('Roboto'), local('Roboto-Regular'), url(static/Roboto.woff2) format('woff2');
+  src:local('Roboto'), local('Roboto-Regular'), url(https://raw.githubusercontent.com/fxrrr/labs/master/static/Roboto.woff2) format('woff2');
 }
 
 *{
@@ -154,7 +154,7 @@ header{
   display:inline-block;
   height:20px;
   padding-left:24px;
-  background:url(static/sprite.svg) 7px -34px no-repeat;
+  background:url(https://raw.githubusercontent.com/fxrrr/labs/master/static/sprite.svg) 7px -34px no-repeat;
 }
 #Header-contact-email{
   margin-left:20px;
@@ -164,7 +164,7 @@ header{
   margin-left:-20px;
   width:500px;
   height:135px;
-  background:url(static/header-illustration.svg)no-repeat;
+  background:url(https://raw.githubusercontent.com/fxrrr/labs/master/static/header-illustration.svg)no-repeat;
   opacity:0.7;
 }
 #Header-nav{
@@ -180,7 +180,7 @@ header{
   top:0;
   right:30px;
   padding-left:35px;
-  background:url(static/sprite.svg) 0 -76px no-repeat;
+  background:url(https://raw.githubusercontent.com/fxrrr/labs/master/static/sprite.svg) 0 -76px no-repeat;
 }
 #Search-input{
   background:#fff;
@@ -539,7 +539,7 @@ main{
   top:calc(50% - 40px);
   width:40px;
   height:40px;
-  background:url(static/sprite.svg) 12px -145px no-repeat;
+  background:url(https://raw.githubusercontent.com/fxrrr/labs/master/static/sprite.svg) 12px -145px no-repeat;
   opacity:0.3;
   cursor:pointer;
 }
@@ -647,7 +647,7 @@ footer{
 #Footer-alamat{
   width:300px;
   height:200px;
-  background:url(static/sprite.svg) 170px -184px no-repeat;
+  background:url(https://raw.githubusercontent.com/fxrrr/labs/master/static/sprite.svg) 170px -184px no-repeat;
 }
 .Footer-link:hover{text-decoration:underline;color:#ccc;}
 .Footer-link{
@@ -659,7 +659,7 @@ footer{
   width:300px;
   height:40px;
   margin-top:30px;
-  background:url(static/sprite.svg) 0px -391px no-repeat;
+  background:url(https://raw.githubusercontent.com/fxrrr/labs/master/static/sprite.svg) 0px -391px no-repeat;
   opacity:0.4;
 }
 #Footer-openMaps{
@@ -669,7 +669,7 @@ footer{
   padding:4px 50px 4px 0;
   white-space:pre;
   font-size:13px;
-  background:url(static/sprite.svg) 300px -436px no-repeat;
+  background:url(https://raw.githubusercontent.com/fxrrr/labs/master/static/sprite.svg) 300px -436px no-repeat;
 }
 #BackToTop:hover{background-color:#222;opacity:1}
 #BackToTop{
@@ -679,12 +679,11 @@ footer{
   display:inline-block;
   width:30px;
   height:30px;
-  background:url(static/sprite.svg) 10px -120px no-repeat;
+  background:url(https://raw.githubusercontent.com/fxrrr/labs/master/static/sprite.svg) 10px -120px no-repeat;
   border-radius:50px;
   opacity:0.5;
   cursor:pointer;
 }
-
 
 
 
