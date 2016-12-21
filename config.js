@@ -35,7 +35,7 @@ var CONFIG={};
   };
 
 
-localStorage.CART = 'kkk'
+alert()
 
 
 
