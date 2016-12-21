@@ -138,7 +138,7 @@ header{
   right:3px;
   width:50px;
   height:50px;
-  background:#00a000 url(https://raw.githubusercontent.com/fxrrr/labs/master/static/sprite.svg) 8px 14px no-repeat;
+  background:#00a000 url(https://rawgit.com/fxrrr/aag/master/static/sprite.svg) 8px 14px no-repeat;
   border-radius:50px;
 }
 #Header-contact{
@@ -154,7 +154,7 @@ header{
   display:inline-block;
   height:20px;
   padding-left:24px;
-  background:url(https://raw.githubusercontent.com/fxrrr/labs/master/static/sprite.svg) 7px -34px no-repeat;
+  background:url(https://rawgit.com/fxrrr/aag/master/static/sprite.svg) 7px -34px no-repeat;
 }
 #Header-contact-email{
   margin-left:20px;
@@ -180,7 +180,7 @@ header{
   top:0;
   right:30px;
   padding-left:35px;
-  background:url(https://raw.githubusercontent.com/fxrrr/labs/master/static/sprite.svg) 0 -76px no-repeat;
+  background:url(https://rawgit.com/fxrrr/aag/master/static/sprite.svg) 0 -76px no-repeat;
 }
 #Search-input{
   background:#fff;
@@ -539,7 +539,7 @@ main{
   top:calc(50% - 40px);
   width:40px;
   height:40px;
-  background:url(https://raw.githubusercontent.com/fxrrr/labs/master/static/sprite.svg) 12px -145px no-repeat;
+  background:url(https://rawgit.com/fxrrr/aag/master/static/sprite.svg) 12px -145px no-repeat;
   opacity:0.3;
   cursor:pointer;
 }
@@ -647,7 +647,7 @@ footer{
 #Footer-alamat{
   width:300px;
   height:200px;
-  background:url(https://raw.githubusercontent.com/fxrrr/labs/master/static/sprite.svg) 170px -184px no-repeat;
+  background:url(https://rawgit.com/fxrrr/aag/master/static/sprite.svg) 170px -184px no-repeat;
 }
 .Footer-link:hover{text-decoration:underline;color:#ccc;}
 .Footer-link{
@@ -659,7 +659,7 @@ footer{
   width:300px;
   height:40px;
   margin-top:30px;
-  background:url(https://raw.githubusercontent.com/fxrrr/labs/master/static/sprite.svg) 0px -391px no-repeat;
+  background:url(https://rawgit.com/fxrrr/aag/master/static/sprite.svg) 0px -391px no-repeat;
   opacity:0.4;
 }
 #Footer-openMaps{
@@ -669,7 +669,7 @@ footer{
   padding:4px 50px 4px 0;
   white-space:pre;
   font-size:13px;
-  background:url(https://raw.githubusercontent.com/fxrrr/labs/master/static/sprite.svg) 300px -436px no-repeat;
+  background:url(https://rawgit.com/fxrrr/aag/master/static/sprite.svg) 300px -436px no-repeat;
 }
 #BackToTop:hover{background-color:#222;opacity:1}
 #BackToTop{
@@ -679,7 +679,7 @@ footer{
   display:inline-block;
   width:30px;
   height:30px;
-  background:url(https://raw.githubusercontent.com/fxrrr/labs/master/static/sprite.svg) 10px -120px no-repeat;
+  background:url(https://rawgit.com/fxrrr/aag/master/static/sprite.svg) 10px -120px no-repeat;
   border-radius:50px;
   opacity:0.5;
   cursor:pointer;
