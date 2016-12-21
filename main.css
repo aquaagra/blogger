@@ -138,7 +138,7 @@ header{
   right:3px;
   width:50px;
   height:50px;
-  background:#00a000 url(static/sprite.svg) 8px 14px no-repeat;
+  background:#00a000 url(https://raw.githubusercontent.com/fxrrr/labs/master/static/sprite.svg) 8px 14px no-repeat;
   border-radius:50px;
 }
 #Header-contact{
