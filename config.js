@@ -8,6 +8,7 @@ var CONFIG={};
   CONFIG.menu={
     'Home':'',
     'Instagram':'',
+    'Daftar Harga':'6482945127747674215',
     'Products':{
       'Percetakan':[
         'Kartu Nama,kartu-nama',
@@ -28,7 +29,6 @@ var CONFIG={};
         'Mug,'
       ]
     },
-    'Daftar Harga':'6482945127747674215',
     'Cara Pemesanan':'6257960933882626139',
     'Cara Pembayaran':'6257960933882626139',
     'Pengiriman':'6257960933882626139'
