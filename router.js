@@ -62,7 +62,6 @@ ROUTER.home = () => {
   CON.menu();
   CON.cart();
   ROUTER.get.products(ROUTER.urls.products,function(d){ CON.product(d) });
-  ROUTER.get.articles(ROUTER.urls.articles,function(d){ CON.article(d); CON.menu_article() });
 }
 
 ROUTER.products = () => {
