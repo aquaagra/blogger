@@ -7,8 +7,8 @@ var CONFIG={};
 
   CONFIG.menu={
     'Home':'',
-    'Daftar Harga':'6482945127747674215',
     'Instagram':'',
+    'Daftar Harga':'6482945127747674215',
     'Products':{
       'Percetakan':[
         'Kartu Nama,kartu-nama',
