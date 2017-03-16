@@ -35,6 +35,12 @@ var CONFIG={};
   };
 
 
+CONFIG.banner = [
+  'https://1.bp.blogspot.com/-tQE6j2HYwyM/WMp5ozScmfI/AAAAAAAAAKY/iPrDIciPIX4B0KnSyzJsT1hDuk71UAJ8ACLcB/s1600/banner.jpg',
+  'https://2.bp.blogspot.com/-_DIWE2EY1uM/WMp5owAFLHI/AAAAAAAAAKU/1hLmgfKvKPEgThs70wZzzNpmx87pVglJwCLcB/s1600/banner2.jpg'
+];
+  
+  
 localStorage.CART = localStorage.CART || "[]";
 
 
