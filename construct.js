@@ -25,6 +25,12 @@ CON.menu = function(){
       h+=`</div>`;
     }
   };
+  
+  let b = CONFIG.banner;
+  for(let i in b){
+    h += '<img class="Side-banner" src="'+b[i]+'"/>';
+  }
+  
   $('#Side').html(h);
   $('#Main-gallery').hide();
   Main.resize();
@@ -290,28 +296,5 @@ CON.preview_gallery = function(pid){
 CON.harga = function(obj){
   $('#Main-products').html(obj);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
